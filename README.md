@@ -64,7 +64,7 @@ A comprehensive, production-ready Discord bot for managing a Roblox hockey leagu
 
 ### Step 1: Clone or Download
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Bladexly/roblox-hockey-bot
 cd roblox-hockey-bot
 ```
 
